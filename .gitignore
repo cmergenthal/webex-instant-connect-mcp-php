@@ -1,0 +1,10 @@
+/config.php
+/config.local.php
+/.env
+/.env.*
+!/.env.example
+/var/idempotency/*
+!/var/idempotency/.gitkeep
+/vendor/
+*.log
+.DS_Store
